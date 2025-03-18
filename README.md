@@ -40,7 +40,7 @@ Prerequisites
 ### **Clone the Repository**
 
 ```bash
-git clone https://github.com/khunnunthawat/a-board-be
+git clone https://github.com/khunnunthawat/a-board-be.git
 cd a-board-be
 ```
 
