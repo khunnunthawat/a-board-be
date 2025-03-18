@@ -179,3 +179,16 @@ docker-compose up -d
 ## 📜 License
 
 This project is licensed under the **MIT License**.
+
+---
+
+### **📌 Feedback & Team Response**
+
+Thank you for using and supporting the **aBoard** project! 🚀  
+If you have any feedback, feature suggestions, or encounter any issues, please let us know through the following channels:
+
+### 📩 **Contact Us**
+
+- **Email Support:**  
+  📧 Send your feedback or report issues to:  
+  [khunnunthawat@gmail.com](mailto:khunnunthawat@gmail.com)
